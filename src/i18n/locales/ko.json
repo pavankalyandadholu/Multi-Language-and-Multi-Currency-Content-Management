@@ -31,7 +31,7 @@
     "title": "특별 혜택",
     "subtitle": "한정 시간 특가",
     "description": "귀하의 지역 고객을 위해 특별히 설계된 독점 혜택을 누리세요.",
-    "specialOffer": "특가: {price}",
+    "specialOffer": "특가:",
     "ctaButton": "지금 시작하기"
   }
 }

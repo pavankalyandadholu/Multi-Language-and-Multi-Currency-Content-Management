@@ -31,7 +31,7 @@
     "title": "Oferta Especial",
     "subtitle": "Oferta por Tempo Limitado",
     "description": "Aproveite nossa oferta exclusiva desenvolvida especialmente para clientes da sua região.",
-    "specialOffer": "Preço especial: {price}",
+    "specialOffer": "Preço especial:",
     "ctaButton": "Começar Agora"
   }
 }
