@@ -7,7 +7,7 @@ import { useStore } from '../store/useStore';
 import { clsx } from 'clsx';
 
 export function LanguageSwitcher() {
-  const { t, i18n } = useTranslation();
+  const { i18n } = useTranslation();
   const { setLanguage } = useStore();
   
   const handleLanguageChange = async (code: string) => {

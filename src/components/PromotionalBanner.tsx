@@ -12,7 +12,7 @@ const PromotionalBanner: React.FC<PromotionalBannerProps> = ({
   bgColor = 'bg-gradient-to-r from-blue-500 to-indigo-600',
   price = 99.99
 }) => {
-  const { t, i18n } = useTranslation();
+  const { t } = useTranslation();
   const [formattedPrice, setFormattedPrice] = useState('');
   const { currency } = useStore();
 

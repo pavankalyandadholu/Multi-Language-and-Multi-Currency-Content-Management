@@ -14,7 +14,9 @@ export function RecommendedProducts({updateProductId, productId}: RecommendedPro
   const { i18n } = useTranslation();
   const { currency } = useStore();
   const [formattedPrices, setFormattedPrices] = useState<{[key: string]: string}>({});
-  const recommendedProducts: Product[] = products.filter( p=>p.id!=productId+1)
+  
+  // Convert string id to number before comparison
+  const recommendedProducts: Product[] = products.filter(p => Number(p.id) !== productId + 1);
 
   useEffect(() => {
     recommendedProducts.forEach(async (product) => {
