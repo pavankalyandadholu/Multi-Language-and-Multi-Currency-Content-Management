@@ -32,25 +32,25 @@ const resources = {
   it: { translation: itTranslations }
 };
 
-const i18nInstance = i18n
+i18n
   .use(initReactI18next)
-  .use(LanguageDetector);
-
-await i18nInstance.init({
-  resources,
-  fallbackLng: 'en',
-  interpolation: {
-    escapeValue: false,
-  },
-  detection: {
-    order: ['localStorage', 'navigator'],
-    caches: ['localStorage']
-  }
-});
+  .use(LanguageDetector)
+  .init({
+    resources,
+    fallbackLng: 'en',
+    interpolation: {
+      escapeValue: false,
+    },
+    detection: {
+      order: ['localStorage', 'navigator'],
+      caches: ['localStorage']
+    }
+  });
 
 // Set initial direction based on language
-const currentLang = i18nInstance.language;
+const currentLang = i18n.language;
 const currentLangConfig = languages.find(lang => lang.code === currentLang);
 document.documentElement.dir = currentLangConfig?.dir || 'ltr';
+document.documentElement.lang = currentLang;
 
-export default i18nInstance;
+export default i18n;
