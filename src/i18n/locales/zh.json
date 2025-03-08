@@ -1,0 +1,37 @@
+{
+  "appName": "多语言CMS",
+  "common": {
+    "language": "语言",
+    "currency": "货币",
+    "theme": "主题"
+  },
+  "product": {
+    "inventory": "库存{{count}}件",
+    "addToCart": "加入购物车",
+    "recommendedProducts": "推荐产品"
+  },
+  "aboutUs": {
+    "title": "关于我们",
+    "history": "自2010年成立以来，我们从一家小型创业公司发展成为数字解决方案的全球领导者。在保持卓越和客户满意度这些核心价值观的同时，我们不断突破创新的界限。",
+    "mission": "我们的使命是提供前沿解决方案，使企业和个人能够在数字时代充分发挥潜力。",
+    "values": "我们相信透明度、创新，并在所有工作中始终将客户放在首位。"
+  },
+  "contact": {
+    "title": "联系我们",
+    "phone": "电话",
+    "phoneNumber": "010-12345678",
+    "email": "电子邮件",
+    "emailAddress": "contact@example.cn",
+    "address": "地址",
+    "streetAddress": "创新路123号",
+    "cityStateZip": "北京市朝阳区 100000",
+    "country": "中国"
+  },
+  "promotions": {
+    "title": "特别优惠",
+    "subtitle": "限时优惠",
+    "description": "抓住机会，享受为您所在地区特别定制的独家优惠。",
+    "specialOffer": "特惠价：",
+    "ctaButton": "立即开始"
+  }
+}

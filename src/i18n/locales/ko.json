@@ -1,0 +1,37 @@
+{
+  "appName": "다국어 CMS",
+  "common": {
+    "language": "언어",
+    "currency": "통화",
+    "theme": "테마"
+  },
+  "product": {
+    "inventory": "재고 {{count}}개",
+    "addToCart": "장바구니에 추가",
+    "recommendedProducts": "추천 상품"
+  },
+  "aboutUs": {
+    "title": "회사 소개",
+    "history": "2010년 설립된 우리 회사는 작은 스타트업에서 디지털 솔루션의 글로벌 리더로 성장했습니다. 우리는 탁월성과 고객 만족이라는 핵심 가치를 유지하면서 혁신의 경계를 지속적으로 넓혀왔습니다.",
+    "mission": "우리의 사명은 기업과 개인이 디지털 시대에서 잠재력을 최대한 발휘할 수 있도록 최첨단 솔루션을 제공하는 것입니다.",
+    "values": "우리는 투명성, 혁신, 그리고 모든 일에서 고객을 최우선으로 생각하는 것을 믿습니다."
+  },
+  "contact": {
+    "title": "문의하기",
+    "phone": "전화",
+    "phoneNumber": "0212345678",
+    "email": "이메일",
+    "emailAddress": "contact@example.kr",
+    "address": "주소",
+    "streetAddress": "혁신로 123",
+    "cityStateZip": "서울특별시 강남구 123-456",
+    "country": "대한민국"
+  },
+  "promotions": {
+    "title": "특별 혜택",
+    "subtitle": "한정 시간 특가",
+    "description": "귀하의 지역 고객을 위해 특별히 설계된 독점 혜택을 누리세요.",
+    "specialOffer": "특가: {price}",
+    "ctaButton": "지금 시작하기"
+  }
+}

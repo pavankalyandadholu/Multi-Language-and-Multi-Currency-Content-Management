@@ -1,0 +1,37 @@
+{
+  "appName": "Mehrsprachiges CMS",
+  "common": {
+    "language": "Sprache",
+    "currency": "Währung",
+    "theme": "Design"
+  },
+  "product": {
+    "inventory": "{{count}} Artikel auf Lager",
+    "addToCart": "In den Warenkorb",
+    "recommendedProducts": "Empfohlene Produkte"
+  },
+  "aboutUs": {
+    "title": "Über Uns",
+    "history": "Gegründet im Jahr 2010, ist unser Unternehmen von einem kleinen Start-up zu einem globalen Marktführer für digitale Lösungen gewachsen. Wir haben kontinuierlich die Grenzen der Innovation verschoben und dabei unsere Grundwerte von Exzellenz und Kundenzufriedenheit bewahrt.",
+    "mission": "Unsere Mission ist es, innovative Lösungen bereitzustellen, die Unternehmen und Einzelpersonen ermöglichen, ihr volles Potenzial im digitalen Zeitalter zu entfalten.",
+    "values": "Wir glauben an Transparenz, Innovation und daran, unsere Kunden bei allem, was wir tun, an erste Stelle zu setzen."
+  },
+  "contact": {
+    "title": "Kontakt",
+    "phone": "Telefon",
+    "phoneNumber": "030123456789",
+    "email": "E-Mail",
+    "emailAddress": "kontakt@example.de",
+    "address": "Adresse",
+    "streetAddress": "Innovationsstraße 123",
+    "cityStateZip": "10115 Berlin",
+    "country": "Deutschland"
+  },
+  "promotions": {
+    "title": "Sonderangebot",
+    "subtitle": "Zeitlich begrenztes Angebot",
+    "description": "Nutzen Sie unser exklusives Angebot, das speziell für unsere Kunden in Ihrer Region entwickelt wurde.",
+    "specialOffer": "Sonderpreis:",
+    "ctaButton": "Jetzt Starten"
+  }
+}

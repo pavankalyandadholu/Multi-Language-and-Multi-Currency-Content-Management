@@ -1,0 +1,37 @@
+{
+  "appName": "CMS Multilingue",
+  "common": {
+    "language": "Lingua",
+    "currency": "Valuta",
+    "theme": "Tema"
+  },
+  "product": {
+    "inventory": "{{count}} articoli disponibili",
+    "addToCart": "Aggiungi al carrello",
+    "recommendedProducts": "Prodotti consigliati"
+  },
+  "aboutUs": {
+    "title": "Chi Siamo",
+    "history": "Fondata nel 2010, la nostra azienda è cresciuta da una piccola startup a leader globale nelle soluzioni digitali. Abbiamo costantemente superato i limiti dell'innovazione mantenendo i nostri valori fondamentali di eccellenza e soddisfazione del cliente.",
+    "mission": "La nostra missione è fornire soluzioni all'avanguardia che permettano alle aziende e agli individui di raggiungere il loro pieno potenziale nell'era digitale.",
+    "values": "Crediamo nella trasparenza, nell'innovazione e nel mettere i nostri clienti al primo posto in tutto ciò che facciamo."
+  },
+  "contact": {
+    "title": "Contattaci",
+    "phone": "Telefono",
+    "phoneNumber": "02123456789",
+    "email": "Email",
+    "emailAddress": "contatto@example.it",
+    "address": "Indirizzo",
+    "streetAddress": "Via dell'Innovazione, 123",
+    "cityStateZip": "20121 Milano",
+    "country": "Italia"
+  },
+  "promotions": {
+    "title": "Offerta Speciale",
+    "subtitle": "Offerta a Tempo Limitato",
+    "description": "Approfitta della nostra offerta esclusiva progettata specificamente per i clienti della tua regione.",
+    "specialOffer": "Prezzo speciale: {price}",
+    "ctaButton": "Inizia Ora"
+  }
+}

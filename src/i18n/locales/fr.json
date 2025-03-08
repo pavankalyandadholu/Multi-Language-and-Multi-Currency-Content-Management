@@ -1,0 +1,37 @@
+{
+  "appName": "CMS Multilingue",
+  "common": {
+    "language": "Langue",
+    "currency": "Devise",
+    "theme": "Thème"
+  },
+  "product": {
+    "inventory": "{{count}} articles en stock",
+    "addToCart": "Ajouter au panier",
+    "recommendedProducts": "Produits recommandés"
+  },
+  "aboutUs": {
+    "title": "À Propos de Nous",
+    "history": "Fondée en 2010, notre entreprise est passée d'une petite start-up à un leader mondial des solutions numériques. Nous avons constamment repoussé les limites de l'innovation tout en maintenant nos valeurs fondamentales d'excellence et de satisfaction client.",
+    "mission": "Notre mission est de fournir des solutions de pointe qui permettent aux entreprises et aux particuliers d'atteindre leur plein potentiel à l'ère numérique.",
+    "values": "Nous croyons en la transparence, l'innovation et la priorité donnée à nos clients dans tout ce que nous faisons."
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "phone": "Téléphone",
+    "phoneNumber": "0123456789",
+    "email": "E-mail",
+    "emailAddress": "contact@example.fr",
+    "address": "Adresse",
+    "streetAddress": "123 Avenue de l'Innovation",
+    "cityStateZip": "75008 Paris",
+    "country": "France"
+  },
+  "promotions": {
+    "title": "Offre Spéciale",
+    "subtitle": "Offre à Durée Limitée",
+    "description": "Profitez de notre offre exclusive conçue spécialement pour nos clients de votre région.",
+    "specialOffer": "Prix spécial :",
+    "ctaButton": "Commencer Maintenant"
+  }
+}

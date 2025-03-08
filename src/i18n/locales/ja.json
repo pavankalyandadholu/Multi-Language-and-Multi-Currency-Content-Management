@@ -1,0 +1,37 @@
+{
+  "appName": "多言語CMS",
+  "common": {
+    "language": "言語",
+    "currency": "通貨",
+    "theme": "テーマ"
+  },
+  "product": {
+    "inventory": "在庫{{count}}点",
+    "addToCart": "カートに追加",
+    "recommendedProducts": "おすすめ商品"
+  },
+  "aboutUs": {
+    "title": "会社概要",
+    "history": "2010年の設立以来、当社は小規模なスタートアップから、デジタルソリューションのグローバルリーダーへと成長してきました。卓越性と顧客満足度という基本的価値観を維持しながら、常にイノベーションの限界に挑戦し続けています。",
+    "mission": "当社の使命は、デジタル時代において企業と個人が最大限の可能性を発揮できる、最先端のソリューションを提供することです。",
+    "values": "私たちは、透明性、イノベーション、そしてすべての活動において顧客を第一に考えることを信念としています。"
+  },
+  "contact": {
+    "title": "お問い合わせ",
+    "phone": "電話番号",
+    "phoneNumber": "0312345678",
+    "email": "メールアドレス",
+    "emailAddress": "contact@example.jp",
+    "address": "住所",
+    "streetAddress": "イノベーション通り123",
+    "cityStateZip": "東京都渋谷区123-4567",
+    "country": "日本"
+  },
+  "promotions": {
+    "title": "特別オファー",
+    "subtitle": "期間限定キャンペーン",
+    "description": "お客様の地域限定で、特別なオファーをご用意しました。",
+    "specialOffer": "特別価格：",
+    "ctaButton": "今すぐ始める"
+  }
+}

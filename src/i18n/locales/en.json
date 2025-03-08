@@ -1,0 +1,37 @@
+{
+  "appName": "Multi-Language CMS",
+  "common": {
+    "language": "Language",
+    "currency": "Currency",
+    "theme": "Theme"
+  },
+  "product": {
+    "inventory": "{{count}} items in stock",
+    "addToCart": "Add to Cart",
+    "recommendedProducts": "Recommended Products"
+  },
+  "aboutUs": {
+    "title": "About Us",
+    "history": "Founded in 2010, our company has grown from a small startup to a global leader in digital solutions. We've consistently pushed the boundaries of innovation while maintaining our core values of excellence and customer satisfaction.",
+    "mission": "Our mission is to provide cutting-edge solutions that empower businesses and individuals to achieve their full potential in the digital age.",
+    "values": "We believe in transparency, innovation, and putting our customers first in everything we do."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "phone": "Phone",
+    "phoneNumber": "1234567890",
+    "email": "Email",
+    "emailAddress": "contact@example.com",
+    "address": "Address",
+    "streetAddress": "123 Innovation Drive",
+    "cityStateZip": "Silicon Valley, CA 94025",
+    "country": "United States"
+  },
+  "promotions": {
+    "title": "Special Offer",
+    "subtitle": "Limited Time Deal",
+    "description": "Take advantage of our exclusive offer designed specifically for our valued customers in your region.",
+    "specialOffer": "Special Price:",
+    "ctaButton": "Get Started Now"
+  }
+}
